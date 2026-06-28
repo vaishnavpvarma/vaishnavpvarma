@@ -52,7 +52,6 @@
 </p>
 
 ---
-
 ### 🌐 Contribution Activity
 
 <p align="center">
@@ -60,9 +59,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ### 🧬 Current Focus & Projects
