@@ -22,26 +22,42 @@
 
 ### 🚀 Quick Stats & Activity
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavpvarma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Metrics" width="80%">
+    <td colspan="2" align="center">
+      <!-- Classic Metrics (Header) -->
+      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://streak-stats.demolab.com/?user=vaishnavpvarma&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" width="100%">
+    <td width="50%" align="center" valign="top">
+      <!-- Coding Habits -->
+      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/github-habits.svg" alt="Coding Habits" width="100%">
     </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavpvarma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" width="100%">
+    <td width="50%" align="center" valign="top">
+      <!-- Languages Chart (Compact/Donut) -->
+      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/github-languages.svg" alt="Languages" width="100%">
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavpvarma&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="Activity Graph" width="100%">
+    <td colspan="2" align="center">
+      <!-- Achievements Plugin -->
+      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/github-achievements.svg" alt="Achievements" width="100%">
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -58,21 +74,21 @@
 
 ### 🛠️ Technical Arsenal
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%">
   <tr>
-    <td width="33%" align="center" style="border: none;">
+    <td width="33%" align="center">
       <b>Languages</b><br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41"/>
     </td>
-    <td width="33%" align="center" style="border: none;">
+    <td width="33%" align="center">
       <b>Pipelines & Tools</b><br><br>
       <img src="https://img.shields.io/badge/Nextflow-0D1117?style=flat-square&logo=nextflow&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Snakemake-0D1117?style=flat-square&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Modkit-0D1117?style=flat-square&logoColor=00FF41"/>
     </td>
-    <td width="33%" align="center" style="border: none;">
+    <td width="33%" align="center">
       <b>Environment</b><br><br>
       <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41"/>
