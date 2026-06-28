@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Vaishnav P Varma <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Vaishnav P Varma width="30px"></h1>
   <p><i>Computational Biologist | Genomics Engineer | Tool Developer</i></p>
   
   <a href="https://github.com/vaishnavpvarma">
