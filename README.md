@@ -22,33 +22,23 @@
 
 ### 🚀 Quick Stats & Activity
 
-<!-- 
-  NOTE FOR SETUP: 
-  To generate these SVGs, set up lowlighter/metrics via GitHub Actions in your .github/workflows directory.
-  Below are the file paths assuming you output them to the 'metrics' folder in your repository.
--->
-
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td colspan="2" align="center">
-      <!-- Classic Metrics (Header) -->
-      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/metrics/github-metrics.svg" alt="GitHub Metrics" width="100%">
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavpvarma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Metrics" width="80%">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <!-- Coding Habits -->
-      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/metrics/github-habits.svg" alt="Coding Habits" width="100%">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=vaishnavpvarma&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" width="100%">
     </td>
-    <td width="50%" align="center" valign="top">
-      <!-- Languages Chart (Compact/Donut) -->
-      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/metrics/github-languages.svg" alt="Languages" width="100%">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavpvarma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" width="100%">
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <!-- Achievements Plugin -->
-      <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/metrics/github-achievements.svg" alt="Achievements" width="100%">
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavpvarma&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="Activity Graph" width="100%">
     </td>
   </tr>
 </table>
@@ -68,21 +58,21 @@
 
 ### 🛠️ Technical Arsenal
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="border: none;">
       <b>Languages</b><br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41"/>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="border: none;">
       <b>Pipelines & Tools</b><br><br>
       <img src="https://img.shields.io/badge/Nextflow-0D1117?style=flat-square&logo=nextflow&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Snakemake-0D1117?style=flat-square&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Modkit-0D1117?style=flat-square&logoColor=00FF41"/>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="border: none;">
       <b>Environment</b><br><br>
       <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41"/>
       <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41"/>
