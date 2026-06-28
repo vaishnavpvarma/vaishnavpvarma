@@ -1,45 +1,51 @@
 <!-- Animated Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋%20I'm%20Vaishnav%20P%20Varma&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vaishnav%20P%20Varma&fontSize=50&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Genomics%20Engineer&descSize=18&descAlignY=58&animation=fadeIn&fontColor=ffffff" />
 </p>
-
-<h3 align="center">🧬 Computational Biologist | Genomics & Multi-Omics | Host-Pathogen Research</h3>
 
 <p align="center">
-Decoding host-pathogen biology through genomics, transcriptomics, and computational pipelines
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Host-Pathogen+Genomics+%26+Multi-Omics;Python+%2B+R+%2B+Nextflow+%2F+Snakemake;Turning+Sequencing+Data+into+Biological+Insight" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/CSIR--IGIB-INGEN--HOPE%20Lab-302b63?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Patent-IN%20520964-302b63?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/M.Sc.-Bioinformatics-302b63?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Status-PhD%20Applicant%20(EU)-302b63?style=flat-square&labelColor=0f0c29"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 🧠 About Me
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="220" src="https://raw.githubusercontent.com/yashika641/yashika641/output/github-contribution-grid-snake-dark.svg" />
 
-🔬 **M.Sc. Bioinformatics — Alagappa University**
+🔬 **M.Sc. Bioinformatics** — Alagappa University
 
-🧪 **Project Associate-I, CSIR-IGIB (INGEN-HOPE Lab)** — working with Dr. Rajesh Pandey on host-pathogen genomics
+🧪 **Project Associate-I**, CSIR-IGIB — INGEN-HOPE Lab, under Dr. Rajesh Pandey
 
 🦠 Research spans **multi-omics, infectious disease, zoonotic spillover (Nipah virus), RNA-seq, splicing analysis, GWAS, WGS, and single-cell genomics**
 
-📜 Holder of a **granted Indian patent (No. 520964)** for a device interrupting zoonotic pathogen transmission via contaminated palm sap
+📜 Holder of a **granted Indian patent (No. 520964)** — apparatus interrupting zoonotic pathogen transmission via contaminated palm sap
 
-🎓 Actively applying to **European computational biology PhD programs** (Helmholtz Munich, LCBS Luxembourg, EPFL, DKFZ, EMBL-affiliated groups)
+🎓 Applying to **European computational biology PhD programs** — Helmholtz Munich · LCBS Luxembourg · EPFL · DKFZ · EMBL-affiliated groups
 
-### ⚡ Core Focus
-🧬 Genomics & Multi-Omics Integration
-🦠 Infectious Disease & Zoonotic Spillover
-🧫 RNA-seq & Splicing Analysis
-🧮 GWAS & Whole Genome Sequencing (WGS)
-🔬 Single-Cell Genomics
-🧪 Nanopore Sequencing & Methylation Profiling
+<br clear="right"/>
 
-### ⚙️ What I Build
-🛠️ Genomics pipelines (Nextflow / Snakemake)
-🧾 Variant calling & SNP characterisation workflows
-📊 Multi-omics integration pipelines
-🧬 Methylation profiling tools (Modkit-based)
+| | |
+|---|---|
+| 🧬 **Genomics & Multi-Omics** | Integrating WGS, RNA-seq, methylation & variant data |
+| 🦠 **Infectious Disease** | Zoonotic spillover, host-pathogen interaction modelling |
+| 🧫 **Transcriptomics** | RNA-seq, splicing analysis, single-cell genomics |
+| 🧮 **Statistical Genomics** | GWAS, population-scale variant analysis |
+| 🛠️ **Pipeline Engineering** | Nextflow / Snakemake, reproducible bioinformatics workflows |
+| 🧪 **Long-Read Sequencing** | Nanopore methylation profiling (Modkit), FAST5/SLOW5/POD5 |
 
----
+<p align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 🌐 3D Contribution Graph
 
@@ -47,182 +53,224 @@ Decoding host-pathogen biology through genomics, transcriptomics, and computatio
 <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-> Generated using [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — auto-updates daily via GitHub Actions.
-
----
+<p align="center"><sub>Generated with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> · auto-updates daily via GitHub Actions</sub></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computational+Biologist;Genomics+Researcher;Bioinformatics+Engineer;Host-Pathogen+Genomics;Multi-Omics+Enthusiast;Aspiring+PhD+Candidate&center=true&width=600&height=50">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
 </p>
 
----
+# 🛠️ Tech Stack
 
-### 🧬 Core Bioinformatics & Genomics Stack
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github&perline=6"/>
+**🐍 Python — Genomics & Data Science**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<p align="center">
+</td>
+<td valign="top" width="50%">
+
+**📈 R — Statistics & Bioconductor**
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bioconductor-1A5276?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/tidyverse-1A5276?style=for-the-badge&logo=tidyverse&logoColor=white"/>
+<img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESeq2-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🧬 Genomics Pipelines & Workflow**
+<p>
 <img src="https://img.shields.io/badge/Nextflow-23A86A?style=for-the-badge&logo=nextflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snakemake-039475?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RNA--seq-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WGS-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GWAS-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GATK-4051B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Samtools-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modkit-009688?style=for-the-badge"/>
 </p>
 
----
+</td>
+<td valign="top" width="50%">
 
-### 🧪 Sequencing & Multi-Omics
+**⚙️ Tooling & Environment**
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Nanopore%20Sequencing-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Single--Cell%20Genomics-00ACC1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Splicing%20Analysis-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Methylation%20Profiling-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Variant%20Calling-AA0000?style=for-the-badge"/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
 </p>
 
----
-
-### 📊 Data Analysis & Visualization
+### 🧪 Domain-Specific Methods
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bioconductor-2C5C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNA--seq-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/WGS-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/GWAS-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Splicing%20Analysis-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Single--Cell%20Genomics-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Nanopore%20Sequencing-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Methylation%20Profiling-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/SNP%20Characterisation-A78BFA?style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Variant%20Calling-A78BFA?style=flat-square&labelColor=24243e"/>
 </p>
 
-------
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavpvarma&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vaishnavpvarma&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavpvarma&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavpvarma&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vaishnavpvarma&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=vaishnavpvarma&theme=radical&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavpvarma&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavpvarma&theme=react-dark&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vaishnavpvarma&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vaishnavpvarma&label=Profile%20Views&color=A78BFA&style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 🚀 Featured Work
 
-### 🦠 Nipah Virus Transmission Prevention Device
-Patented apparatus (Indian Patent No. 520964) for interrupting zoonotic spillover via contaminated palm sap.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus**
-Zoonotic disease prevention • Public health engineering • Spillover interruption
+**🦠 Nipah Virus Transmission Prevention Device**
+*Granted Indian Patent No. 520964*
 
----
+Apparatus interrupting zoonotic spillover via contaminated palm sap.
 
-### 🧬 Host-Pathogen Multi-Omics Pipelines
-Pipeline engineering for genomic surveillance and characterisation at INGEN-HOPE Lab, CSIR-IGIB.
+`Zoonotic Disease Prevention` `Public Health Engineering` `Spillover Interruption`
 
-**Tech**
-Nextflow • Snakemake • Python • R • Nanopore (Modkit) • SNP characterisation
+</td>
+<td width="50%" valign="top">
 
-Features
+**🧬 Host-Pathogen Multi-Omics Pipelines**
+*INGEN-HOPE Lab, CSIR-IGIB*
+
+Pipeline engineering for genomic surveillance & pathogen characterisation.
+
+`Nextflow` `Snakemake` `Python` `R` `Nanopore (Modkit)`
+
 - Bacterial WGS & SNP characterisation (ESKAPE pathogens)
-- Methylation profiling from nanopore data
+- Nanopore methylation profiling
 - RNA-seq & splicing analysis workflows
 - Multi-omics data integration
 
----
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 🏆 Credentials
 
-✔ M.Sc. Bioinformatics — Alagappa University
-✔ B.Sc. (Hons.)
-✔ Granted Indian Patent No. 520964
-✔ Project Associate-I, CSIR-IGIB
+<p align="center">
+<img src="https://img.shields.io/badge/M.Sc.%20Bioinformatics-Alagappa%20University-24243e?style=flat-square&labelColor=0f0c29&color=A78BFA"/>
+<img src="https://img.shields.io/badge/B.Sc.%20(Hons.)-24243e?style=flat-square&labelColor=0f0c29&color=A78BFA"/>
+<img src="https://img.shields.io/badge/Indian%20Patent-No.%20520964-24243e?style=flat-square&labelColor=0f0c29&color=A78BFA"/>
+<img src="https://img.shields.io/badge/Project%20Associate--I-CSIR--IGIB-24243e?style=flat-square&labelColor=0f0c29&color=A78BFA"/>
+</p>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🧠 Research Interests
-
+**🧠 Research Interests**
 - Host-Pathogen Genomics
 - Zoonotic Spillover & Infectious Disease
 - Multi-Omics Integration
 - Single-Cell Genomics
-- Computational Biology Pipeline Engineering
+- Computational Pipeline Engineering
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📚 Currently Exploring
-
+**📚 Currently Exploring**
 - Single-Cell Transcriptomics
 - PyTorch for Genomics
 - Machine Learning for Multi-Omics
 - Nanopore File Formats (FAST5 / SLOW5 / POD5)
 
----
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2"/>
+</p>
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/vaishnavpvarma">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
 
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
 </a>
 
 <a href="https://your-portfolio-url.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
 </a>
 
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
