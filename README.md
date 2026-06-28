@@ -1,103 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi, I'm Vaishnav P. Varma 👋</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bioinformatician-🧬-blueviolet" />
-  <img src="https://img.shields.io/badge/Microbial%20Genomics-🦠-brightgreen" />
-  <img src="https://img.shields.io/badge/Proteomics-%F0%9F%92%AB-orange" />
-  <img src="https://img.shields.io/badge/CADD-%F0%9F%94%8D-red" />
-</p>
+<!-- Typing SVG header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=2D9596&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vaish+%F0%9F%91%8B;Bioinformatician+%7C+Viral+Genomics;Oxford+Nanopore+%7C+HPC+%7C+Long-read+Pipelines;Looking+for+a+Comp+Bio+PhD+in+2026)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github.com/vaishnavvarma/vaishnavvarma/blob/main/assets/banner-bioinfo.gif" alt="Bioinformatics Banner" width="90%" />
-</p>
+</div>
 
 ---
 
-### 👨‍🔬 About Me
+### About me
 
-I’m a **Bioinformatics postgraduate** from Alagappa University, deeply passionate about the computational exploration of life sciences. My academic and research journey has led me to work on a wide array of projects, including:
+I work as a Project Associate at [CSIR-IGIB](https://www.igib.res.in/), New Delhi, in the INGEN-HOPE Lab under Dr. Rajesh Pandey. Most of my day involves wrangling long-read sequencing data on HPC clusters — building and running pipelines for dengue surveillance, drug-resistant bacterial genomes, and whatever else comes off the Nanopore.
 
-- 🧬 **Reverse Vaccinology** against Hepatitis B Virus  
-- 🦠 **Bacterial Gene Prediction** & Functional Annotation  
-- 🧪 **Proteomic Analysis** & Immunoinformatics Pipeline Building  
-- 💻 **Molecular Modelling**, **Docking**, and **Immune Simulation**  
-- 🧠 Interested in AI/ML applications in Structural Bioinformatics  
+Before that: M.Sc. bioinformatics, some immunoinformatics work on HBV vaccines, structural biology. The work has slowly shifted from wet-lab-adjacent analysis toward full pipeline development, and I want to keep going in that direction. Currently applying to computational biology PhD programs in Europe, Singapore, and Australia.
 
-My ultimate goal is to bridge the gap between *data and discovery*, especially in the context of **infectious diseases** and **host-pathogen interactions**.
-
----
-
-### 🧰 Tech & Tools
-
-#### 🖥️ Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
-
-#### 🔬 Bioinformatics & Cheminformatics
-- 🔎 Molecular Docking | MD Simulations | Codon Optimization
-- 🧬 Sequence Clustering | Epitope Mapping | CADD
-- 📊 Functional Genomics | Structure Prediction | Immunoinformatics
-- 🧠 Data-driven design using IEDB, NetMHC, AlphaFold2, SWISS-MODEL
+- 🧬 Working on ONT-based WGS for clinical *A. baumannii* and dengue surveillance
+- 🤖 Picking up foundation models for genomics — DNABERT, Nucleotide Transformer, HuggingFace ecosystem
+- 🌍 Trained at the WHO SEARO Dengue WGS Workshop (March 2026) as a bioinformatics trainer
+- 📬 Always open to talk about computational biology, sequencing pipelines, or PhD apps
 
 ---
 
-### 🧪 Recent Projects
+### Tech I use
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🦠 **HBV Multi-Epitope Vaccine** | Designed using reverse vaccinology, immune simulation, docking & MD | NetMHC, IEDB, VaxiJen, GROMACS |
-| 🔍 **Thermodesulfobium narugense Genome Analysis** | Annotated & predicted gene functions using multiple microbial pipelines | Prokka, PGAP, RAST, BLAST |
-| 🔬 **Proteome-Based Target Identification** | Filtered drug targets by subcellular location, virulence, essentiality | PSORTb, DEG, VFDB, KEGG |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3cb371?style=flat-square&logo=nextflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-blue?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
-### 📘 Publications & IP
+</div>
 
-- 🧾 **Patent Granted (India)**: *"An Apparatus for Collecting Tree Sap"* (No. 520964)  
-  Tackles Nipah virus transmission via hygienic palm sap collection.  
-- 📗 Book Chapter: *"Evaluation of Periodicity & Impact of Convenience Foods"*
-
----
-
-### 🌱 I’m currently learning
-
-- 🧠 Machine Learning for Drug Design  
-- 🧪 High-Throughput Data Analysis  
-- ⚗️ Protein-Ligand Interaction Modelling  
-- 🔁 GitHub Actions and CI/CD for Bioinformatics Pipelines  
+**Sequencing & Genomics:** Oxford Nanopore (MinION/GridION), nf-core/bacass, nf-core/viralrecon, Medaka, Flye, MAFFT, BEAST, Augur, Biopython  
+**Analysis:** NanoPlot, MultiQC, Bandage, AMRFinderPlus, ResFinder, MLST  
+**ML/AI for Bio:** DNABERT-2, Nucleotide Transformer, PyTorch, scikit-learn
 
 ---
 
-### 📫 Let’s Connect
+### GitHub stats
 
-<p align="center">
-  <a href="mailto:vaishnapvarma@gmail.com"><img src="https://img.shields.io/badge/Email-vaishnapvarma@gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vaishnav-p-varma/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
-  <a href="https://vaishnavvarma.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-6f42c1?logo=githubpages&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vaishnavpvarma&show_icons=true&theme=calm&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavpvarma&layout=compact&theme=calm&hide_border=true&langs_count=6" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="[![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavpvarma)] />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavvarma&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavpvarma&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavpvarma&theme=calm&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 🚀 Goals
+### 3D contribution graph
 
-- 🎯 Apply for PhD in **Structural Bioinformatics** / **Cheminformatics**
-- 🤝 Collaborate on impactful scientific research
-- 💡 Contribute to open-source bioinformatics tools
+<div align="center">
+
+![3D Contrib](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
 
 ---
 
-_“From knowing nothing to something — staying consistent and never giving up.”_
+### Find me
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavpvarma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaishnavpvarma.github.io-2D9596?style=flat-square&logo=github&logoColor=white)](https://vaishnavpvarma.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishnavpvarma@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=vaishnavpvarma&style=flat-square&color=2D9596" alt="profile views"/></sub>
+</div>
