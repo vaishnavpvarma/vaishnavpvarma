@@ -1,23 +1,3 @@
-<div align="center">
-  <h1>Hi there, I'm Vaishnav P Varma </h1>
-  <p><i>Computational Biologist | Genomics Engineer | Tool Developer</i></p>
-  
-  <a href="https://github.com/vaishnavpvarma">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <p>
-    I am a Project Associate-I at CSIR-IGIB (INGEN-HOPE Lab) specializing in <b>host-pathogen genomics, multi-omics data integration, and computational pipeline engineering</b>. My work bridges the gap between high-throughput sequencing data and actionable biological insights.
-  </p>
-</div>
-<div align="center">
   <h1>Hi there, I'm Vaishnav P Varma </h1>
   <p><i>Computational Biologist | Genomics Engineer | PhD Aspirant — HealthAI</i></p>
   
