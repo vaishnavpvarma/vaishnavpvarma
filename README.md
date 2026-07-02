@@ -17,7 +17,34 @@
     I am a Project Associate-I at CSIR-IGIB (INGEN-HOPE Lab) specializing in <b>host-pathogen genomics, multi-omics data integration, and computational pipeline engineering</b>. My work bridges the gap between high-throughput sequencing data and actionable biological insights.
   </p>
 </div>
-
+<div align="center">
+  <h1>Hi there, I'm Vaishnav P Varma </h1>
+  <p><i>Computational Biologist | Genomics Engineer | PhD Aspirant — HealthAI</i></p>
+  
+  <a href="https://github.com/vaishnavpvarma">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <p>
+    I am a Project Associate-I at CSIR-IGIB (INGEN-HOPE Lab), working on <b>long-read genomics, methylation profiling, and computational pipeline engineering</b>. I'm currently applying to PhD programs in HealthAI — machine learning for multi-omics and scientific software people can actually reuse. I'm also digging into <b>AI & LLM security in biology</b>, the underexplored overlap between cybersecurity and computational genomics.
+  </p>
+</div>
+---
+ 
+### 🧬 Current Focus & Projects
+ 
+- 🔭 **Working on:** Long-read (Oxford Nanopore) methylation profiling and pipeline engineering at INGEN-HOPE Lab.
+- 🎯 **Applying to:** PhD programs in HealthAI — ML for multi-omics, scientific software development.
+- 🔐 **Exploring:** AI & LLM security in biology — where cybersecurity meets computational genomics.
+- 👨‍💻 **Recent build:** 
+  - **MaXScriber:** A Python tool automating the extraction and structuring of longitudinal medical laboratory data from heterogeneous PDF reports into Excel.
+- 📜 **Intellectual Property:** Holder of **Granted Indian Patent No. 520964** — an apparatus designed to interrupt zoonotic pathogen transmission via contaminated palm sap.
+ 
 ---
 
 ### 🚀 Quick Stats & Activity
