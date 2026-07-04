@@ -1,5 +1,5 @@
   <h1>Hi there, I'm Vaishnav P Varma </h1>
-  <p><i>Computational Biologist | Genomics Engineer | PhD Aspirant — HealthAI</i></p>
+  <p><i>Computational Biologist | PhD Aspirant — HealthAI</i></p>
   
   <a href="https://github.com/vaishnavpvarma">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
