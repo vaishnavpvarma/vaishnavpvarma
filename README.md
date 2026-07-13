@@ -78,27 +78,37 @@
 
 ###
 
-<p data-importer="text" align="left">
-  I am a Project Associate-I at CSIR-IGIB (INGEN-HOPE Lab), working on long-read genomics, methylation profiling, and computational pipeline engineering. I am currently applying to PhD programs in HealthAI — where machine learning, multi-omics, and scientific software meet real-world biological questions. My work is also moving into AI & LLM security in biology, exploring how cybersecurity thinking can strengthen genomics, trustworthy AI, and resilient bioinformatics systems.
-</p>
+<div align="left">
+  <h2>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="24" /> My name is Vaishnav</h2>
 
-<p data-importer="text" align="left">
-  I come from biology, but I build systems that make biology more interpretable, scalable, and secure.
-</p>
+  <h3>Computational Biologist | PhD Aspirant - HealthAI and Security</h3>
 
-<p data-importer="text" align="left">
-  <strong>Current Focus & Projects</strong><br>
-  • Working on: Long-read (Oxford Nanopore) methylation profiling and pipeline engineering at INGEN-HOPE Lab.<br>
-  • Applying to: PhD programs in HealthAI — ML for multi-omics, scientific software development, and translational AI.<br>
-  • Exploring: AI & LLM security in biology — where cybersecurity meets computational genomics and trustworthy scientific computing.<br>
-  • Recent build: MaXScriber — a Python tool automating the extraction and structuring of longitudinal medical laboratory data from heterogeneous PDF reports into Excel.<br>
-  • Intellectual Property: holder of Granted Indian Patent No. 520964 — an apparatus designed to interrupt zoonotic pathogen transmission via contaminated palm sap.<br>
-  • Also building: ScrapeMate — a local application using BeautifulSoup and gspread for archiving climate and public data into structured outputs.
-</p>
+  <p>
+    I am a Project Associate-I at CSIR-IGIB (<a href="https://ingen-hope.github.io/">INGEN-HOPE Lab</a>), working on long-read genomics, methylation profiling, and computational pipeline development.
+  </p>
 
-<p data-importer="text" align="left">
-  I believe the next era of biology will not be shaped only by experiments, but by the people who can connect data, computation, ethics, and security into tools that others can actually use. That is the space I want to build in.
-</p>
+  <p>
+    I’m currently applying to PhD programs in HealthAI, which combine scientific software, machine learning, and multi-omics with practical biological questions. My work is also moving into AI &amp; LLM security in biology, exploring how cybersecurity thinking can strengthen genomics, trustworthy AI, and resilient bioinformatics systems.
+  </p>
+
+  <ul>
+    <li>🌍 I’m based in New Delhi, India</li>
+    <li>🖥️ See my portfolio at <a href="https://vaishnavpvarma.github.io/">vaishnavpvarma.github.io</a></li>
+    <li>✉️ You can contact me at <a href="mailto:vaishnavvarma.res@gmail.com">vaishnavvarma.res@gmail.com</a></li>
+    <li>🚀 I’m currently working at <a href="http://www.igib.res.in/">CSIR- Institute of Genomics and Integrative Biology (IGIB)</a></li>
+    <li>🧠 I’m currently learning Machine Learning Applications in Genomics and LLM Security</li>
+    <li>👥 I’m looking to collaborate on Scientific Software Development, LLM Security, and Algorithms</li>
+  </ul>
+
+  <h3>Support Me</h3>
+  <ul style="list-style-type: none; margin: 0; padding: 0;">
+    <li style="display: inline-block; margin-right: 0.25rem;">
+      <a href="https://www.buymeacoffee.com/vaishnavpvarma">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" />
+      </a>
+    </li>
+  </ul>
+</div>
 
 ###
 
