@@ -31,7 +31,9 @@
 </div>
 
 ###
----
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -39,8 +41,10 @@
 </div>
 
 ###
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
----
 ###
 
 <div data-importer="socials" align="center">
@@ -51,7 +55,9 @@
 </div>
 
 ###
----
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
@@ -94,7 +100,9 @@
 </div>
 
 ###
----
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavpvarma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -102,7 +110,9 @@
 </div>
 
 ###
----
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -111,7 +121,9 @@
 </picture>
 
 ###
----
+<div align="center" style="margin: 18px 0 10px 0;">
+  <span>◦ ◦ ◦</span>
+</div>
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavpvarma.vaishnavpvarma&left_color=darkgreen"  />
