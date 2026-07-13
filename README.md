@@ -45,13 +45,19 @@
   <span>◦ ◦ ◦</span>
 </div>
 
-###
-
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="42" height="30" alt="bluesky logo"  />
+  <a href="https://www.linkedin.com/in/vaishnav-p-varma/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Vaish_Varma">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="x logo" />
+  </a>
+  <a href="https://discord.com/users/vaishvarma_87386">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo" />
+  </a>
+  <a href="https://bsky.app/profile/vaishvarma.bsky.social">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="42" height="30" alt="bluesky logo" />
+  </a>
 </div>
 
 ###
