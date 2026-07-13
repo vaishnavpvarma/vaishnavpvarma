@@ -94,6 +94,7 @@
 </div>
 
 ###
+---
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavpvarma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -101,6 +102,7 @@
 </div>
 
 ###
+---
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -109,6 +111,7 @@
 </picture>
 
 ###
+---
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavpvarma.vaishnavpvarma&left_color=darkgreen"  />
