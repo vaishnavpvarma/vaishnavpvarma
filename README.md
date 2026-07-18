@@ -12,7 +12,7 @@
   </p>
 
   <ul>
-    <li>🌍 I’m based in New Delhi, India</li>
+    <li>🌍 I’m based in New Delhi, India(Current)</li>
     <li>🖥️ See my portfolio at <a href="https://vaishnavpvarma.github.io/">vaishnavpvarma.github.io</a></li>
     <li>✉️ You can contact me at <a href="mailto:vaishnavvarma.res@gmail.com">vaishnavvarma.res@gmail.com</a></li>
     <li>🚀 I’m currently working at <a href="http://www.igib.res.in/">CSIR- Institute of Genomics and Integrative Biology (IGIB)</a></li>
