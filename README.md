@@ -35,8 +35,10 @@
   <span>◦ ◦ ◦</span>
 </div>
 
-<div data-importer="stats" align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/vaishnavpvarma)
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/vaishnavpvarma)
+
 </div>
 
 ###
