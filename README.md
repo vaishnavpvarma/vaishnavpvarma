@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="24" /> Vaishnav here!</h2>
+  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="24" /> Vaishnav here!</h1>
 
   <h3>Computational Biologist | PhD Aspirant - HealthAI and Security</h3>
 
@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    I'm currently applying to PhD programs in HealthAI, which combine scientific software, machine learning, and multi-omics with practical biological questions. My work is also moving into AI &[...]
+    I'm currently applying to PhD programs in HealthAI, which combine scientific software, machine learning, and multi-omics with practical biological questions. My work is also moving into AI & Security.
   </p>
 
   <ul>
@@ -36,7 +36,7 @@
 </div>
 
 <div data-importer="stats" align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/vaishnavpvarma)
 </div>
 
 ###
@@ -111,7 +111,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavpvarma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/trophy-output/trophy.svg?theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" />
+  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/trophy-output/trophy.svg?theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
