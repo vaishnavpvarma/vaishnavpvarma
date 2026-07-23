@@ -8,16 +8,16 @@
   </p>
 
   <p>
-    I’m currently applying to PhD programs in HealthAI, which combine scientific software, machine learning, and multi-omics with practical biological questions. My work is also moving into AI &amp; LLM security in biology, exploring how cybersecurity thinking can strengthen genomics, trustworthy AI, and resilient bioinformatics systems.
+    I'm currently applying to PhD programs in HealthAI, which combine scientific software, machine learning, and multi-omics with practical biological questions. My work is also moving into AI &[...]
   </p>
 
   <ul>
-    <li>🌍 I’m based in New Delhi, India (Current)</li>
+    <li>🌍 I'm based in New Delhi, India (Current)</li>
     <li>🖥️ See my portfolio at <a href="https://vaishnavpvarma.github.io/">vaishnavpvarma.github.io</a></li>
     <li>✉️ You can contact me at <a href="mailto:vaishnavvarma.res@gmail.com">vaishnavvarma.res@gmail.com</a></li>
-    <li>🚀 I’m currently working at <a href="http://www.igib.res.in/">CSIR- Institute of Genomics and Integrative Biology (IGIB)</a></li>
-    <li>🧠 I’m currently learning Machine Learning Applications in Genomics and LLM Security (Trust Worthy Systems) </li>
-    <li>👥 I’m looking to collaborate on Scientific Software Development, LLM Security, and Algorithms</li>
+    <li>🚀 I'm currently working at <a href="http://www.igib.res.in/">CSIR- Institute of Genomics and Integrative Biology (IGIB)</a></li>
+    <li>🧠 I'm currently learning Machine Learning Applications in Genomics and LLM Security (Trust Worthy Systems) </li>
+    <li>👥 I'm looking to collaborate on Scientific Software Development, LLM Security, and Algorithms</li>
   </ul>
 
   <h3>Support Me</h3>
@@ -36,9 +36,7 @@
 </div>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark) 
-  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vaishnavpvarma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 </div>
 
 ###
@@ -113,7 +111,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavpvarma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/trophy-output/trophy.svg?theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/vaishnavpvarma/vaishnavpvarma/trophy-output/trophy.svg?theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" />
 </div>
 
 ###
