@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="24" /> Vaishnav here!</h1>
 
-  <h3>Computational Biologist | PhD Aspirant - HealthAI and Security</h3>
+  <h3>Computational Biologist | PhD Aspirant - HealthAI and Algorithms </h3>
 
   <p>
     I am a Project Associate-I at CSIR-IGIB (<a href="https://ingen-hope.github.io/">INGEN-HOPE Lab</a>), working on long-read genomics, methylation profiling, and computational pipeline development.
