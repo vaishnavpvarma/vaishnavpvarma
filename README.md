@@ -16,7 +16,7 @@
     <li>🖥️ See my portfolio at <a href="https://vaishnavpvarma.github.io/">vaishnavpvarma.github.io</a></li>
     <li>✉️ You can contact me at <a href="mailto:vaishnavvarma.res@gmail.com">vaishnavvarma.res@gmail.com</a></li>
     <li>🚀 I'm currently working at <a href="http://www.igib.res.in/">CSIR- Institute of Genomics and Integrative Biology (IGIB)</a></li>
-    <li>🧠 I'm currently learning Machine Learning Applications in Genomics and LLM Security </li>
+    <li>🧠 I'm currently learning Machine Learning Applications in Genomics and the algorithms behind it. </li>
     <li>👥 I'm looking to collaborate on Scientific Software Development, LLM Security, and Algorithms</li>
   </ul>
 
